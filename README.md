@@ -1,6 +1,6 @@
-# Notion Question-Answering
+# feishu Question-Answering
 
-🤖Ask questions to your Notion database in natural language🤖
+🤖Ask questions to your feishu database in natural language🤖
 
 💪 Built with [LangChain](https://github.com/hwchase17/langchain)
 
